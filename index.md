@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my github page!
 ---
+github pages exercice
